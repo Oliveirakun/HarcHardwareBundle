@@ -6,7 +6,7 @@
     <artifactId>HarcHardwareBundle</artifactId>
     <version>1.5</version>  <!-- No need to update when HarcHardware changes -->
     <name>HarcHardwareBundle</name>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <licenses>
         <license>
             <name>GPL 3+</name>
