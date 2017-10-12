@@ -7,7 +7,7 @@
     <groupId>org.harctoolbox</groupId>
     <artifactId>HarcHardware</artifactId>
     <packaging>jar</packaging>
-    <version>1.5dev</version>
+    <version>1.5</version> <!-- Same version as HarcHardwareBundle -->
     <name>HarcHardware</name>
     <parent>
         <groupId>org.harctoolbox</groupId>

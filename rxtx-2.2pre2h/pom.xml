@@ -7,7 +7,7 @@
     <groupId>gnu.io</groupId>
     <artifactId>RXTX</artifactId>
     <packaging>jar</packaging>
-    <version>2.2pre2h</version>
+    <version>1.5</version> <!-- Same version as HarcHardwareBundle -->
     <name>RXTX</name>
     <licenses>
         <license>
