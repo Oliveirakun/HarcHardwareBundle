@@ -12,7 +12,7 @@
     <parent>
         <groupId>org.harctoolbox</groupId>
         <artifactId>HarcHardwareBundle</artifactId>
-        <version>1.5</version>
+        <version>1.5.2</version>
         <relativePath>..</relativePath>
     </parent>
     <licenses>
